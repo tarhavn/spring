@@ -1,0 +1,2 @@
+This is a startup tracker file for empty folder.
+The file can and will be deleted later on when reasource added in current folder.
